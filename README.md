@@ -1,9 +1,6 @@
-### Hello World
 ## 🙍 O mnie 
 Jestem młodym Front end Developer. Pracuje nad wieloma projektami wykorzystaniem React.js. <br> 
 Rozszerzam również swoją wiedzę o Nextjs i Redux. <br>
-W swoich projektach wykorzystuje również PHP. Tworzę w tym języku proste strony internetowe jak na przykład <a href="https://tester.radaway.pl/">tester zdjęć</a>. 
-
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszurbankiewicz/)](https://www.linkedin.com/in/tomaszurbankiewicz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomasz.urbankiewicz@gmail.com)](mailto:tomasz.urbankiewicz@gmail.com)
@@ -32,6 +29,6 @@ W swoich projektach wykorzystuje również PHP. Tworzę w tym języku proste str
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/olafsulich/)
 [![trello](https://img.shields.io/badge/-trello-blue?style=flat-square&logo=trello&logoColor=white)](https://github.com/olafsulich/)
 [![postman](https://img.shields.io/badge/-postman-E34F26?style=flat-square&logo=postman&logoColor=white)](https://github.com/olafsulich/)
-
 <br>
+
 Zerknij poniżej a zobaczysz moje projekty
