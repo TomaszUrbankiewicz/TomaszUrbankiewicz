@@ -31,4 +31,3 @@ Rozszerzam również swoją wiedzę o Nextjs i Redux. <br>
 [![postman](https://img.shields.io/badge/-postman-E34F26?style=flat-square&logo=postman&logoColor=white)](https://github.com/olafsulich/)
 <br>
 
-Zerknij poniżej a zobaczysz moje projekty
