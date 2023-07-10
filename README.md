@@ -1,4 +1,4 @@
-##💻 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszurbankiewicz/)](https://www.linkedin.com/in/tomaszurbankiewicz/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomasz.urbankiewicz@gmail.com)](mailto:tomasz.urbankiewicz@gmail.com)
+## 💻 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszurbankiewicz/)](https://www.linkedin.com/in/tomaszurbankiewicz/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomasz.urbankiewicz@gmail.com)](mailto:tomasz.urbankiewicz@gmail.com)
 Jestem młodym Front end Developerem. Pracuje nad wieloma projektami z wykorzystaniem React.js. <br> 
 Rozszerzam również swoją wiedzę o Nextjs i Redux. <br>
 
