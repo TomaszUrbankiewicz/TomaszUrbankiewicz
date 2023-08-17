@@ -1,4 +1,4 @@
-## 💻 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszurbankiewicz/)](https://www.linkedin.com/in/tomaszurbankiewicz/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomasz.urbankiewicz@gmail.com)](mailto:tomasz.urbankiewicz@gmail.com)
+## [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszurbankiewicz/)](https://www.linkedin.com/in/tomaszurbankiewicz/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomasz.urbankiewicz@gmail.com)](mailto:tomasz.urbankiewicz@gmail.com)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/TomaszUrbankiewicz/)](https://github.com/TomaszUrbankiewicz)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/TomaszUrbankiewicz/)](https://github.com/TomaszUrbankiewicz)
