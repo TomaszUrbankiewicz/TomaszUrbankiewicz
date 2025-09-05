@@ -1,24 +1,43 @@
-## [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszurbankiewicz/)](https://www.linkedin.com/in/tomaszurbankiewicz/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomasz.urbankiewicz@gmail.com)](mailto:tomasz.urbankiewicz@gmail.com)
+# 👋 Hej, jestem Tom  
 
-[![React](https://img.shields.io/badge/-React-0A1A2F?style=flat-square&logo=react)](https://github.com/TomaszUrbankiewicz)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat-square&logo=javascript&link=https://github.com/TomaszUrbankiewicz/)](https://github.com/TomaszUrbankiewicz)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/TomaszUrbankiewicz/)](https://github.com/TomaszUrbankiewicz)
-[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/TomaszUrbankiewicz/)](https://github.com/TomaszUrbankiewicz)
-[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://github.com/TomaszUrbankiewicz)
+Frontend / Fullstack Developer z pasją do **React, Next.js i PHP**.  
+Uwielbiam budować **szybkie, nowoczesne aplikacje** i testować nowe technologie 🚀  
 
-[![Cypress](https://img.shields.io/badge/-Cypress-E34F26?style=flat-square&logo=cypress)](https://github.com/TomaszUrbankiewicz)
-[![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/TomaszUrbankiewicz)
-[![PHP](https://img.shields.io/badge/-php-0A1A2F?style=flat-square&logo=php)](https://github.com/TomaszUrbankiewicz)
-[![Styled Components](https://img.shields.io/badge/-StyledComponents-0A1A2F?style=flat-square&logo=Styled-Components)](https://github.com/TomaszUrbankiewicz)
-[![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat-square&logo=Next.js&logoColor=white)](https://github.com/TomaszUrbankiewicz)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=flat-square&logoColor=white&logo=typescript&link=https://github.com/TomaszUrbankiewicz/)](https://github.com/TomaszUrbankiewicz)
+---
 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap)](https://github.com/TomaszUrbankiewicz)
-[![Mui](https://img.shields.io/badge/-Mui-0A1A2F?style=flat-square&logo=Mui)](https://github.com/TomaszUrbankiewicz)
-[![Firebase](https://img.shields.io/badge/-Firebase-E34F26?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/TomaszUrbankiewicz)
-[![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat-square&logo=git&link=https://github.com/olafsulich/)](https://github.com/TomaszUrbankiewicz)
-[![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/TomaszUrbankiewicz)
-[![figma](https://img.shields.io/badge/-figma-0A1A2F?style=flat-square&logo=figma&logoColor=orange)](https://github.com/TomaszUrbankiewicz)
-[![Trello](https://img.shields.io/badge/-trello-blue?style=flat-square&logo=trello&logoColor=white)](https://github.com/TomaszUrbankiewicz)
-[![postman](https://img.shields.io/badge/-postman-E34F26?style=flat-square&logo=postman&logoColor=white)](https://github.com/TomaszUrbankiewicz)
-[![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/TomaszUrbankiewicz)
+## 🛠️ Stack technologiczny  
+
+**Frontend:**  
+⚛️ React · 🔷 TypeScript · ⬛ Next.js · 🎨 SCSS · 💅 Styled Components · 🎭 Redux · 🎛️ MUI  
+
+**Backend & Tools:**  
+🐘 PHP · 🔥 Firebase · 🐙 Git · 🧪 Cypress · 📦 Webpack  
+
+**Workflow & Design:**  
+🎨 Figma · 📋 Trello · 📮 Postman · 🧹 ESLint  
+
+---
+
+## 📊 Statystyki GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomaszUrbankiewicz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomaszUrbankiewicz&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/TomaszUrbankiewicz/TomaszUrbankiewicz/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Kontakt  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomaszurbankiewicz/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tomasz.urbankiewicz@gmail.com)  
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
